@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">bon dia i sóc Isaac 🦎🦎
 </div>
-<img src="https://imgur.com/eM0gXxc">
+<img src="https://imgur.com/eM0gXxc.png">
 
 
 bon dia i sóc Isaac

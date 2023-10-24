@@ -12,7 +12,7 @@
 ## Redes sociales
 
 - Instagram:isaachdz024
-- 
+- LinkedIn:www.linkedin.com/in/isaac-hernández-pérez-b77490200
 <br>
 
 

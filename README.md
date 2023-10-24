@@ -1,6 +1,10 @@
-### bon dia i sóc Isaac 🦎
+<div align="center">
+<h1 align="center">bon dia i sóc Isaac 🦎🦎
+</div>
 
-<!--
+
+
+bon dia i sóc Isaac
 **IsaacHDzPerez/IsaacHDzPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
